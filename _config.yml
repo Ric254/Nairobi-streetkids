@@ -6,26 +6,27 @@
 #REQUIRED
 org_name: Nairobi Streetkids
 org_summary: > # Enter your summary on the next line. Be sure to indent by two spaces.
-  A mobile-friendly Github Pages template designed to help grassroots nonprofits get a website online quickly
+  We are a non-profit organization tasked with helping Nairobi Streetkids with food, shelter, clothing, and medical expenses
 org_full_description: > # Enter your description on the next line. Be sure to indent by two spaces.
-  Ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.
+ Nairobi Streetkids was founded in 2022 with the aim of helping children living on the streets of Nairobi with a second chance in life. We cater for their food, clothing, medical expenses, and shelter. 
+ We also educate a number of them with the help of our donors from across the world. Our aim is to get them all off the streets and into a better life.
 
 #OPTIONAL
 #Non US-address support coming soon
-org_general_email_inbox: your-email@somedomain.com
-org_street_address: 1355 Market Street #Please include suite number on the line below
+org_general_email_inbox: eerickmwangi@gmail.com
+org_street_address: 1355 Langata #Please include suite number on the line below
 org_address_suite: Suite 900
-org_city: San Francisco
-org_state: CA
+org_city: Nairobi
+org_state: NRB
 org_zip: > # Enter zip on next line. Be sure to indent by two spaces.
-  94103
+  +254
 org_phone: > # Enter phone on next line. Be sure to indent by two spaces.
-  (123) 456-7890
+  (254) 7992465
 
 #SOCIAL MEDIA
-org_twitter_username: smartergiving
-org_facebook_username: smartergiving
-org_instagram_username:
+org_twitter_username: Ricko43271722 
+org_github_username: Ric254
+org_instagram_username: ricko_mwass
 
 #TAX STATUS
 #Your site will display an appropriate message below the Donate section
@@ -38,8 +39,8 @@ is_501c3: true
 #ONLINE DONATIONS & EMAIL SIGNUPS
 #To use these services, enter the required usernames. For further instructions, consult the README file.
 #If you do not wish to use a service, simply remove everything after the colon (:), leaving the item blank
-donorbox_campaign_name: free-template-demo
-tinyletter_username: interestingnonprofits
+donorbox_campaign_name: Nairobi Streetkids
+tinyletter_username: Nairobi-streetkids
 
 #SEARCH ENGINES
 #Changing this next setting to 'true' will allow your site to be indexed by search engines (like Google)
@@ -47,7 +48,7 @@ publish: false
 
 #COLOR SCHEME
 #Select one of the five color schemes (default, one, two, three, or four)
-color_scheme: default
+color_scheme: three
 
 # *** DO NOT CHANGE ANYTHING BELOW THIS LINE ***
 
