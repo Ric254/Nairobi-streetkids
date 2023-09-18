@@ -1,15 +1,15 @@
 ### Features  
 1. Accept online donations  
-2. Capture email addresses to begin building your supporter database
+2. Capture email addresses to begin building my supporter database
 
 #### Screenshot  
 ![Capture](https://github.com/Ric254/Nairobi-streetkids/assets/110993526/b6827b61-e499-47b5-9148-ace009e33bc2)
 
 
 ### TODOs
-- [ ] CNAME and custom domain instructions
-- [ ] Add cleanup items to tutorial
-  - [ ] Delete gh-pages branch
+- [ ] CNAME and custom domain
+- [ ] Add cleanup items
+  - [ ] Delete errors
   - [ ] Swap README for a "post-launch" one
 - [ ] Open graph metadata
 - [ ] Troubleshooting tips
