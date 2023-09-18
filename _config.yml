@@ -5,9 +5,6 @@
 
 #REQUIRED
 org_name: Nairobi Streetkids
---
-
-<screenshots src="/screenshots/Streetchild.PNG" class="img-responsive center-block" alt="A picture a street child"/>
 org_summary: > # Enter your summary on the next line. Be sure to indent by two spaces.
   We are a non-profit organization tasked with helping Nairobi Streetkids with food, shelter, clothing, and medical expenses
 org_full_description: > # Enter your description on the next line. Be sure to indent by two spaces.
