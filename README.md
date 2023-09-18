@@ -1,12 +1,9 @@
 ### Features  
 1. Accept online donations  
-2. Capture email addresses to begin building your supporter database  
-
-#### Demo  
-[https://smartergiving.github.io/free-nonprofit-starter-website/](https://smartergiving.github.io/free-nonprofit-starter-website/)
+2. Capture email addresses to begin building your supporter database
 
 #### Screenshot  
-![Screenshot](screenshots/screenshot.png?raw=true "Free Nonprofit Starter Template Screenshot")
+![Capture](https://github.com/Ric254/Nairobi-streetkids/assets/110993526/b6827b61-e499-47b5-9148-ace009e33bc2)
 
 
 ### TODOs
