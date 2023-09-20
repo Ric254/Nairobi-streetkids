@@ -12,7 +12,6 @@
   - [ ] Delete errors
   - [ ] Swap README for a "post-launch" one
 - [ ] Open graph metadata
-- [ ] Troubleshooting tips
 
 ### Future
 - [ ] Google Analytics
